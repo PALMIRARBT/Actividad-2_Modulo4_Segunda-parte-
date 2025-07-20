@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Buho Armadillo",
+    "id": "buhoarmadillo",
+    "img": "/buhoturisteando/buhoarmadillo.png",
+    "descripcion": "Un búho con armadura, fuerte y protector."
+  },
+  {
+    "nombre": "Buho Capibara",
+    "id": "buhocapibara",
+    "img": "/buhoturisteando/buhocapibara.png",
+    "descripcion": "El búho más relajado y sociable del grupo."
+  },
+  {
+    "nombre": "Buho Cocodrilo",
+    "id": "buhococodrilo",
+    "img": "/buhoturisteando/buhococodrilo.png",
+    "descripcion": "Un búho con gran energía y espíritu aventurero."
+  },
+  {
+    "nombre": "Buho Serpiente",
+    "id": "buhoserpiente",
+    "img": "/buhoturisteando/buhoserpiente.png",
+    "descripcion": "El búho más astuto y curioso de todos."
+  }
+]
